@@ -1,4 +1,4 @@
-<h2>🎊 Helloww Readers!!🎊</h2>
+<center><h1>🎊 Helloww Readers!!🎊</h1></center>
 
 <p> ~ This is Vidha Singh Chauhan as you might've seen. I am currrently a High School Senior who is actually passionate about programming.🙋‍</p> 
 <p> ~ 🎗 She/Her/Hers 🎗</p> 
