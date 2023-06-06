@@ -5,4 +5,5 @@
 <p> ~ Started this (serious) programming journey about an year ago! Slowly built some good skills while trying to balance school as well. 🎈🎈</p> 
 <p> ~ Started learning Python at school but now slowly turning to a self taught web developer willing to be a software engineer in upcoming years.🍂</p> 
 <p> ~ Trying to open up and overcome my inferiority and contributing to personal and open source projects!🥀</p> 
-<p> ~ Getting BETTER - EACH and EVERYDAY is the ultimate goal!🌾✨</p> 
+<p> ~ Feel free to suggest any changes/issues/share any bug anytime, I'll be more than happy to address your issues!</p>
+<p> ~ Getting BETTER - EACH and EVERYDAY is the ultimate goal!🌾✨</p>
