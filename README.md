@@ -1,6 +1,6 @@
 <center><h1>🎊 Helloww Readers!!🎊</h1></center>
 
-<p> ~ This is Vidha Singh Chauhan as you might've seen. I am currrently a 2nd year Engineering student who is actually passionate about programming.🙋‍</p> 
+<p> ~ Vidha Singh Chauhan here! I am currently a 2nd year Engineering student who is actually passionate about programming.🙋‍</p> 
 <p> ~ 🎗 She/Her/Hers 🎗</p> 
 <p> ~ Started this programming journey about 3 years ago! Slowly built some good skills while trying to balance academics as well. 🎈🎈</p> 
 <p> ~ Started learning Python at school, now a full stack web developer, willing to be a software engineer in upcoming years.🍂</p> 
