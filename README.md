@@ -1,9 +1,5 @@
-<center><h1>🎊 Helloww Readers!!🎊</h1></center>
-
-<p> ~ Vidha Singh Chauhan here! I am currently a 2nd year Engineering student who is actually passionate about programming.🙋‍</p> 
-<p> ~ 🎗 She/Her/Hers 🎗</p> 
-<p> ~ Started this programming journey about 3 years ago! Slowly built some good skills while trying to balance academics as well. 🎈🎈</p> 
-<p> ~ Started learning Python at school, now a full stack web developer, willing to be a software engineer in upcoming years.🍂</p> 
-<p> ~ Trying to open up and overcome my inferiority and contributing to personal and open source projects!🥀</p> 
-<p> ~ Feel free to suggest any changes/issues/share any bug anytime, I'll be more than happy to address your issues!</p>
-<p> ~ Getting BETTER - EACH and EVERYDAY is the ultimate goal!🌾✨</p>
+<center><h1>Hi, I'm Vidha Sigh Chauhan, 19</h1></center>
+<em>here for my love of building</em> <br/>
+<em>i like automation tools && lean towards SaaS</em> <br/>
+<em>one of my evergreen ones: </em> <br/>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2kJwzbxV2ppxnQoYw4GLBZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
